@@ -7,6 +7,8 @@ b) Run `python app.py`
 
 c) **Output**: Best accuracy score amongst the models deployed
 
+d) Visit `Notebook` folder to directly access the `EDA` and `Model Trainer` files 
+
 ---
 
 ## You Tube Presentation
