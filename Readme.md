@@ -5,11 +5,15 @@ a) Run `pip install -r requirements.txt`
 
 b) Run `python app.py`
 
-c) **Output**: Best accuracy score amongst the models deployed
+c) Outputs the best accuracy score amongst the models deployed.
+
+d) Visit `notebook` folder to directly access `EDA` and `Model Training` files. 
+
+--
 
 ## You Tube Presentation
 
-| **Dataset**                                          |
+| **Dataset**                 |                        |
 |-----------------------------|------------------------|
 | **Categorical Variables**   | **Numerical Variables**|
 | - Gender                    | - Math Score           |
@@ -33,3 +37,4 @@ Performed One-Hot Encoding on categorical variables and Standard Scaling on nume
 - CatBoosting Regressor
 - AdaBoost Regressor
 
+---
