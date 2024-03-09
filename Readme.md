@@ -9,7 +9,7 @@ c) **Output**: Best accuracy score amongst the models deployed
 
 ## You Tube Presentation
 
-| **     Dataset**                                     |
+| **Dataset**                                          |
 |-----------------------------|------------------------|
 | **Categorical Variables**   | **Numerical Variables**|
 | - Gender                    | - Math Score           |
