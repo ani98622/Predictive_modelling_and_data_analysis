@@ -7,11 +7,9 @@ b) Run `python app.py`
 
 c) **Output**: Best accuracy score amongst the models deployed
 
----
-
 ## You Tube Presentation
 
-| **Dataset**                 |                        |
+| **     Dataset**                                     |
 |-----------------------------|------------------------|
 | **Categorical Variables**   | **Numerical Variables**|
 | - Gender                    | - Math Score           |
@@ -35,4 +33,3 @@ Performed One-Hot Encoding on categorical variables and Standard Scaling on nume
 - CatBoosting Regressor
 - AdaBoost Regressor
 
----
