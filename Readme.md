@@ -13,6 +13,8 @@ d) Visit `notebook` folder to directly access `EDA` and `Model Training` files.
 
 ### You Tube Presentation
 
+---
+
 | **Dataset**                 |                        |
 |-----------------------------|------------------------|
 | **Categorical Variables**   | **Numerical Variables**|
