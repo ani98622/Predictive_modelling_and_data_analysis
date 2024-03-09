@@ -17,7 +17,6 @@ host=os.getenv("host")
 user=os.getenv("user")
 password=os.getenv("password")
 db=os.getenv('db')
-port = os.getenv('port')
 
 
 def read_sql_data():
@@ -27,11 +26,10 @@ def read_sql_data():
             host=host,
             user=user,
             password=password,
-            db=db,
-            port = port
+            db=db
         )
         logging.info("Connection Established",mydb)
-        df=pd.read_sql_query('Select * from students',mydb)
+        df=pd.read_sql_query('Select * from student',mydb)
         print(df.head())
         return df
     
@@ -63,7 +61,7 @@ def evaluate_models(X_train, y_train,X_test,y_test,models,param):
 
             model.set_params(**gs.best_params_)
             model.fit(X_train,y_train)
-            
+
             y_train_pred = model.predict(X_train)
 
             y_test_pred = model.predict(X_test)
