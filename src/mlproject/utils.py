@@ -17,7 +17,7 @@ host=os.getenv("host")
 user=os.getenv("user")
 password=os.getenv("password")
 db=os.getenv('db')
-
+port = os.getenv('port')
 
 
 def read_sql_data():
@@ -27,16 +27,14 @@ def read_sql_data():
             host=host,
             user=user,
             password=password,
-            db=db
+            db=db,
+            port = port
         )
         logging.info("Connection Established",mydb)
         df=pd.read_sql_query('Select * from students',mydb)
         print(df.head())
-
         return df
-
-
-
+    
     except Exception as ex:
         raise CustomException(ex)
     
