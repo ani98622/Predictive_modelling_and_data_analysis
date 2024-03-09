@@ -9,7 +9,7 @@ c) Outputs the best accuracy score amongst the models deployed.
 
 d) Visit `notebook` folder to directly access `EDA` and `Model Training` files. 
 
---
+---
 
 ## You Tube Presentation
 
