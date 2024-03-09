@@ -1,7 +1,7 @@
 ## Student Performance Indicator
 #### Setup : <br> 
-a) ``` pip install -r requirements.txt ``` <br>
-b) In order to execute :- **python app.py** <br>
+a) Run ``` pip install -r requirements.txt ``` <br>
+b) Run ``` python app.py ``` <br>
 c) Output : best accuracy score amongst the models deployed
  
 You Tube Presentation : <href> 
