@@ -11,7 +11,7 @@ d) Visit the `notebook` folder to directly access `EDA` and `Model Training` fil
 
 ---
 
-### You Tube Presentation : 
+### You Tube Presentation : https://bit.ly/Student_Performance_Indicator
 
 ---
 
