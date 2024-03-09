@@ -1,18 +1,42 @@
-## Student Performance Indicator
-### Setup : <br> 
-a) Run ``` pip install -r requirements.txt ``` <br>
-b) Run ``` python app.py ``` <br>
-c) Output : best accuracy score amongst the models deployed
- 
-You Tube Presentation : <href> 
+# Student Performance Indicator
 
-### Dataset : <br>
-1. **Categorical** : gender , race_ethnicity, parental_level_of_education, lunch, test_preparation_course <br>
-2. **Numerical** : math_score , reading_score , writing_score  <br> 
-### Objective : <br>
-To predict the Math Score by implementing the Modular Structure in which data has been ingested using 'SQL database'. Performed Data Transformation and 'Model Training'. Also, made modules for 'Exception' and 'Logging' to track the work 
-<br> 
-4 - Method : Performed OneHotEncoding on categorical variables and StandardScaler on numerical variables. 
-<br> 
-5 - Models : "Random Forest", "Decision Tree", "Gradient Boosting","Linear Regression", "XGBRegressor", "CatBoosting Regressor", "AdaBoost Regressor"
+## Setup
+a) Run `pip install -r requirements.txt`
 
+b) Run `python app.py`
+
+c) **Output**: Best accuracy score amongst the models deployed
+
+---
+
+## You Tube Presentation
+
+### Dataset
+**Categorical**:
+- Gender
+- Race/Ethnicity
+- Parental Level of Education
+- Lunch
+- Test Preparation Course
+
+**Numerical**:
+- Math Score
+- Reading Score
+- Writing Score
+
+### Objective
+To predict the Math Score by implementing a Modular Structure where data has been ingested using an SQL database. We performed Data Transformation and Model Training. Additionally, modules for Exception Handling and Logging were implemented to track the work progress.
+
+### Method
+Performed One-Hot Encoding on categorical variables and Standard Scaling on numerical variables.
+
+### Models
+- Random Forest
+- Decision Tree
+- Gradient Boosting
+- Linear Regression
+- XGBRegressor
+- CatBoosting Regressor
+- AdaBoost Regressor
+
+---
