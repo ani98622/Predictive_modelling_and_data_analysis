@@ -1,4 +1,4 @@
-# Student Performance Indicator
+#  Score Sorcery: Math Predictions & EDA Marvels
 
 ### Setup
 a) Run `pip install -r requirements.txt`
