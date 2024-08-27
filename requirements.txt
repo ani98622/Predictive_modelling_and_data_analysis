@@ -1,12 +1,15 @@
+streamlit
 numpy
 pandas
 python-dotenv
-mysql-connector-python
-pymysql
 scikit-learn
 seaborn
-catboost
-xgboost
-mlflow
-streamlit
+matplotlib
+seaborn
+
+# mysql-connector-python
+# pymysql
+# mlflow
+# catboost
+# xgboost
 #-e .
