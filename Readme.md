@@ -1,11 +1,11 @@
-# Student Performance Indicator
+#  Score Sorcery: Math Predictions & EDA Marvels
 
 ### Setup
 a) Run `pip install -r requirements.txt`
 
 b) Run `python app.py`
 
-c) Outputs the best accuracy score amongst the models deployed.
+c) Outputs the R2 score amongst the models deployed.
 
 d) Visit the `notebook` folder to directly access `EDA` and `Model Training` files. 
 
