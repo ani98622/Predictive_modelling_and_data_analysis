@@ -1,4 +1,4 @@
-#  Score Sorcery: Math Predictions & EDA Marvels
+# Score Sorcery: Math Predictions & EDA Marvels
 
 ### Setup
 a) Run `pip install -r requirements.txt`
@@ -11,7 +11,13 @@ d) Visit the `notebook` folder to directly access `EDA` and `Model Training` fil
 
 ---
 
-### You Tube Presentation : https://bit.ly/Student_Performance_Indicator
+### Deployed App
+
+You can access the deployed app here: [Math Score Predictor](https://math-score-predictor.streamlit.app/)
+
+### YouTube Presentation
+
+[Student Performance Indicator](https://bit.ly/Student_Performance_Indicator)
 
 ---
 
